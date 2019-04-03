@@ -1,0 +1,10 @@
+
+.userInput input {
+    border: 0;
+    outline: 0;
+    background-color: #ccc;
+    width: auto;
+    display: inline-block;
+    font-size: large;
+    text-align: center;
+}
